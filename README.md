@@ -26,17 +26,6 @@
   </h2>
 </div>
 
-```
-◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼
-  ██╗   ██╗██╗ ██████╗████████╗ ██████╗ ██████╗       #08
-  ██║   ██║██║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗  ⟨KAIJU⟩
-  ██║   ██║██║██║        ██║   ██║   ██║██████╔╝   THREAT
-  ╚██╗ ██╔╝██║██║        ██║   ██║   ██║██╔══██╗   LEVEL:
-   ╚████╔╝ ██║╚██████╗   ██║   ╚██████╔╝██║  ██║   [MAX]
-    ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼
-```
-
 <table align="center">
 <tr>
 <td>
@@ -48,7 +37,7 @@ class Victor_Carbajo:
         self.role         = "Full Stack Developer"
         self.location     = "🌍 Brazil"
         self.languages    = ["JavaScript", "Python"]
-        self.specialties  = ["Web Apps", "APIs", "UI/UX"]
+        self.specialties  = ["Machine Learning", "UI/UX"]
         self.threat_level = "KAIJU CLASS — MAX ⚡"
 
     def current_mission(self):
@@ -65,7 +54,7 @@ class Victor_Carbajo:
 
 </td>
 <td align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230px" />
+<img src="https://media.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif" width="230px" />
 </td>
 </tr>
 </table>
