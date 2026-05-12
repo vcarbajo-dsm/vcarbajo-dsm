@@ -1,16 +1,297 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vcarbajo-dsm/vcarbajo-dsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003333,100:00FFFF&height=200&section=header&text=Victor%20Carbajo&fontSize=60&fontColor=00FFFF&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=AAFFFF&descAlignY=58&animation=twinkling" />
 
-Here are some ideas to get you started:
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1;JavaScript+%26+Python+Enthusiast+%F0%9F%90%8D;Always+learning%2C+always+evolving+%F0%9F%A7%AC" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- KAIJU DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<br/>
+
+<!-- ABOUT ME SECTION -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
+    &nbsp;<span style="color:#00FFFF">SOBRE MIM</span>&nbsp;
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
+  </h2>
+</div>
+
+```
+◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼
+  ██╗   ██╗██╗ ██████╗████████╗ ██████╗ ██████╗       #08
+  ██║   ██║██║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗  ⟨KAIJU⟩
+  ██║   ██║██║██║        ██║   ██║   ██║██████╔╝   THREAT
+  ╚██╗ ██╔╝██║██║        ██║   ██║   ██║██╔══██╗   LEVEL:
+   ╚████╔╝ ██║╚██████╗   ██║   ╚██████╔╝██║  ██║   [MAX]
+    ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
+◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼
+```
+
+<table align="center">
+<tr>
+<td>
+
+```python
+class Victor_Carbajo:
+
+    def __init__(self):
+        self.role         = "Full Stack Developer"
+        self.location     = "🌍 Brazil"
+        self.languages    = ["JavaScript", "Python"]
+        self.specialties  = ["Web Apps", "APIs", "UI/UX"]
+        self.threat_level = "KAIJU CLASS — MAX ⚡"
+
+    def current_mission(self):
+        return [
+            "🔭 Explorando novas tecnologias",
+            "🌱 Sempre aprendendo e evoluindo",
+            "⚡ Transformando ideias em código",
+            "🚀 Construindo o futuro digital",
+        ]
+
+    def get_quote(self):
+        return "I'll be the one to defeat you." — Kafka Hibino
+```
+
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230px" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- TECH STACK SECTION -->
+<div align="center">
+  <h2>⚡ TECH STACK — ARSENAL DE COMBATE ⚡</h2>
+</div>
+
+<div align="center">
+
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFFF)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FFFF)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FFFF)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FFFF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFFF)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FFFF)
+
+### 🗄️ Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FFFF)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00FFFF)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FFFF)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00FFFF)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FFFF)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FFFF)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FFFF)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- GITHUB STATS SECTION -->
+<div align="center">
+  <h2>📊 BATTLE STATISTICS — GITHUB STATS 📊</h2>
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VictorCarbajo&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCarbajo&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&border_color=00FFFF&border_radius=10&hide_border=false" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=VictorCarbajo&theme=dark&background=000000&ring=00FFFF&fire=00CCCC&currStreakLabel=00FFFF&sideLabels=AAFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAFFFF&border=00FFFF&border_radius=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorCarbajo&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=003333&border_color=00FFFF&radius=10" width="95%" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- FEATURED PROJECTS -->
+<div align="center">
+  <h2>🚀 PROJETOS EM DESTAQUE 🚀</h2>
+</div>
+
+<div align="center">
+
+<a href="https://github.com/VictorCarbajo/project-1">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorCarbajo&repo=project-1&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10" />
+</a>
+<a href="https://github.com/VictorCarbajo/project-2">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorCarbajo&repo=project-2&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10" />
+</a>
+
+</div>
+
+> 💡 **Dica:** Substitua `project-1` e `project-2` pelos nomes reais dos seus repositórios em destaque!
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+  <h2>🐍 KAIJU SNAKE — CONTRIBUTION GRAPH 🐍</h2>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VictorCarbajo/VictorCarbajo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> 💡 **Para ativar a snake:** Crie o workflow `.github/workflows/snake.yml` no seu repositório de perfil. Instruções no final deste README.
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- TROPHIES -->
+<div align="center">
+  <h2>🏆 TROFÉUS — HALL OF GLORY 🏆</h2>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=VictorCarbajo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- CONTACT SECTION -->
+<div align="center">
+  <h2>📡 CONTATO — ENTRE EM COMUNICAÇÃO 📡</h2>
+
+  <p>Vamos construir algo épico juntos?</p>
+
+  <a href="https://linkedin.com/in/victorcarbajo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=000000" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/victorcarbajo" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter / X-000000?style=for-the-badge&logo=x&logoColor=00FFFF&labelColor=000000" />
+  </a>
+  &nbsp;
+  <a href="mailto:seu-email@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=000000" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/VictorCarbajo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=VictorCarbajo&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&base=0" />
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:003333,100:000000&height=120&section=footer&animation=twinkling" />
+
+<div align="center">
+  <sub>
+    ⚡ <i>"The only one who can surpass a monster... is another monster."</i> — Kaiju No. 8 ⚡
+  </sub>
+</div>
+
+---
+
+<details>
+<summary>⚙️ <b>Como ativar a Snake Animation (clique para expandir)</b></summary>
+
+<br/>
+
+Crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil (`VictorCarbajo/VictorCarbajo`) com o seguinte conteúdo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<details>
+<summary>📌 <b>Checklist de personalização (clique para expandir)</b></summary>
+
+<br/>
+
+- [ ] Substituir `VictorCarbajo` pelo seu username real do GitHub em todos os links
+- [ ] Atualizar os links do LinkedIn e Twitter/X
+- [ ] Adicionar seu e-mail de contato
+- [ ] Substituir `project-1` e `project-2` pelos seus repositórios reais
+- [ ] Ativar o workflow da Snake Animation
+- [ ] Ajustar as tecnologias da Tech Stack conforme sua realidade
+
+</details>
