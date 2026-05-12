@@ -166,7 +166,7 @@ class Victor_Carbajo:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VictorCarbajo/VictorCarbajo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vcarbajo-dsm/vcarbajo-dsm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 > 💡 **Para ativar a snake:** Crie o workflow `.github/workflows/snake.yml` no seu repositório de perfil. Instruções no final deste README.
@@ -181,7 +181,7 @@ class Victor_Carbajo:
 <div align="center">
   <h2>🏆 TROFÉUS — HALL OF GLORY 🏆</h2>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=VictorCarbajo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vcarbajo-dsm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" />
 </div>
 
 <br/>
@@ -214,7 +214,7 @@ class Victor_Carbajo:
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=VictorCarbajo&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&base=0" />
+  <img src="https://komarev.com/ghpvc/?username=vcarbajo-dsm&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&base=0" />
 
 </div>
 
