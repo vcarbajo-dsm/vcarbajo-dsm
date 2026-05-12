@@ -115,19 +115,19 @@ class Victor_Carbajo:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VictorCarbajo&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10&hide_border=false" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCarbajo&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&border_color=00FFFF&border_radius=10&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vcarbajo-dsm&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcarbajo-dsm&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&border_color=00FFFF&border_radius=10&hide_border=false" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=VictorCarbajo&theme=dark&background=000000&ring=00FFFF&fire=00CCCC&currStreakLabel=00FFFF&sideLabels=AAFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAFFFF&border=00FFFF&border_radius=10" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=vcarbajo-dsm&theme=dark&background=000000&ring=00FFFF&fire=00CCCC&currStreakLabel=00FFFF&sideLabels=AAFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAFFFF&border=00FFFF&border_radius=10" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorCarbajo&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=003333&border_color=00FFFF&radius=10" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vcarbajo-dsm&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=003333&border_color=00FFFF&radius=10" width="95%" />
 </div>
 
 <br/>
@@ -143,11 +143,11 @@ class Victor_Carbajo:
 
 <div align="center">
 
-<a href="https://github.com/VictorCarbajo/project-1">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorCarbajo&repo=project-1&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10" />
+<a href="https://github.com/vcarbajo-dsm/project-1">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vcarbajo-dsm&repo=project-1&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10" />
 </a>
-<a href="https://github.com/VictorCarbajo/project-2">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorCarbajo&repo=project-2&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10" />
+<a href="https://github.com/vcarbajo-dsm/project-2">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vcarbajo-dsm&repo=project-2&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10" />
 </a>
 
 </div>
@@ -228,59 +228,3 @@ class Victor_Carbajo:
     ⚡ <i>"The only one who can surpass a monster... is another monster."</i> — Kaiju No. 8 ⚡
   </sub>
 </div>
-
----
-
-<details>
-<summary>⚙️ <b>Como ativar a Snake Animation (clique para expandir)</b></summary>
-
-<br/>
-
-Crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil (`VictorCarbajo/VictorCarbajo`) com o seguinte conteúdo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<details>
-<summary>📌 <b>Checklist de personalização (clique para expandir)</b></summary>
-
-<br/>
-
-- [ ] Substituir `VictorCarbajo` pelo seu username real do GitHub em todos os links
-- [ ] Atualizar os links do LinkedIn e Twitter/X
-- [ ] Adicionar seu e-mail de contato
-- [ ] Substituir `project-1` e `project-2` pelos seus repositórios reais
-- [ ] Ativar o workflow da Snake Animation
-- [ ] Ajustar as tecnologias da Tech Stack conforme sua realidade
-
-</details>
