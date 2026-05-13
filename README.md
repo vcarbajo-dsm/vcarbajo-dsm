@@ -115,11 +115,6 @@ class Victor_Carbajo:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vcarbajo-dsm&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10&hide_border=false" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcarbajo-dsm&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&border_color=00FFFF&border_radius=10&hide_border=false" />
-
-<br/><br/>
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=vcarbajo-dsm&theme=dark&background=000000&ring=00FFFF&fire=00CCCC&currStreakLabel=00FFFF&sideLabels=AAFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAFFFF&border=00FFFF&border_radius=10" />
 
 </div>
@@ -136,65 +131,9 @@ class Victor_Carbajo:
 
 <br/>
 
-<!-- FEATURED PROJECTS -->
-<div align="center">
-  <h2>🚀 PROJETOS EM DESTAQUE 🚀</h2>
-</div>
-
-<div align="center">
-
-<a href="https://github.com/vcarbajo-dsm/project-1">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vcarbajo-dsm&repo=project-1&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10" />
-</a>
-<a href="https://github.com/vcarbajo-dsm/project-2">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vcarbajo-dsm&repo=project-2&bg_color=000000&title_color=00FFFF&text_color=AAFFFF&icon_color=00FFFF&border_color=00FFFF&border_radius=10" />
-</a>
-
-</div>
-
-> 💡 **Dica:** Substitua `project-1` e `project-2` pelos nomes reais dos seus repositórios em destaque!
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- CONTRIBUTION SNAKE -->
-<div align="center">
-  <h2>🐍 KAIJU SNAKE — CONTRIBUTION GRAPH 🐍</h2>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vcarbajo-dsm/vcarbajo-dsm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> 💡 **Para ativar a snake:** Crie o workflow `.github/workflows/snake.yml` no seu repositório de perfil. Instruções no final deste README.
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- TROPHIES -->
-<div align="center">
-  <h2>🏆 TROFÉUS — HALL OF GLORY 🏆</h2>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=vcarbajo-dsm&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
 <!-- CONTACT SECTION -->
 <div align="center">
   <h2>📡 CONTATO — ENTRE EM COMUNICAÇÃO 📡</h2>
-
-  <p>Vamos construir algo épico juntos?</p>
 
   <a href="https://linkedin.com/in/victorcarbajo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=000000" />
