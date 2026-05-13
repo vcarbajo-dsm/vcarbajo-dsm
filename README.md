@@ -135,29 +135,25 @@ class Victor_Carbajo:
 <div align="center">
   <h2>📡 CONTATO — ENTRE EM COMUNICAÇÃO 📡</h2>
 
-  <a href="https://linkedin.com/in/victorcarbajo" target="_blank">
+  <a href="https://linkedin.com/in/vcarbajo-dsm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=000000" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/victorcarbajo" target="_blank">
+  <a href="https://twitter.com/vcarbajo-dsm" target="_blank">
     <img src="https://img.shields.io/badge/Twitter / X-000000?style=for-the-badge&logo=x&logoColor=00FFFF&labelColor=000000" />
   </a>
-  &nbsp;
-  <a href="mailto:seu-email@email.com" target="_blank">
+  <a href="mailto:vhd.carbajo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=000000" />
   </a>
-  &nbsp;
-  <a href="https://github.com/VictorCarbajo" target="_blank">
+  <a href="https://github.com/vcarbajo-dsm" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000" />
   </a>
-
-  <br/><br/>
+  
+  </br>
+  </br>
 
   <img src="https://komarev.com/ghpvc/?username=vcarbajo-dsm&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&base=0" />
 
 </div>
-
-<br/>
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:003333,100:000000&height=120&section=footer&animation=twinkling" />
